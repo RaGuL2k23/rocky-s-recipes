@@ -1,16 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 h1{
-    color:red;
+    color:rgb(239, 53, 53);
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
     text-align: center;
+    
 
 }
 h2{
     text-decoration: underline wavy;
     color:rgb(73, 231, 231);
+   
 }
 body{
-    background-color: rgb(251, 255, 11);
+    background-color: rgb(231, 232, 221);
 }
 img{
     width:500;
@@ -25,8 +30,4 @@ strong{
 }
 .c{
    text-align: center;
-}
-#img{
-    width=500px;
-    height: 395;
 }
